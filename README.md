@@ -20,8 +20,6 @@ The Microbiome Kickstart Workshop is designed to address the challenges faced by
 
 # **Required Reading**
 
-> 🇧🇷 Leituras obrigatórias
-
 Weinroth MD, Belk AD, Dean C, et al. Considerations and best practices in animal science 16S ribosomal RNA gene sequencing microbiome studies. J Anim Sci. 2022;100(2):skab346. doi:10.1093/jas/skab346 [Link](https://academic.oup.com/jas/article/100/2/skab346/6519592)
 
 Ginnan N, Bordenstein SR. It is time to authenticate the Microbiome Sciences with accredited educational programs and departments. PLoS Biol. 2023 Dec 7;21(12):e3002420. doi: 10.1371/journal.pbio.3002420. PMID: 38060452; PMCID: PMC10703218. [Link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002420)
