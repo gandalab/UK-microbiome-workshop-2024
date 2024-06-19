@@ -42,5 +42,6 @@ Packages:
 [Link to 16s amplicon section of 2023 workshop](https://github.com/Penn-State-Microbiome-Center/KickStart-Workshop-2023/tree/main/Day2-AmpliconR)
 
 [Link to an overview of sequencing methodologies](https://psu.mediaspace.kaltura.com/media/Next+Generation+Sequencing/1_12vugl0d)
+
 [Link to an overview of bioinformatics](https://psu.mediaspace.kaltura.com/media/Overview+of+Bioinformatics+and+Diversity+Metrics/1_1ih13k9f)
 
