@@ -49,30 +49,30 @@ Packages:
 # **Suggested Resources**
 
 ## Background: Coursera - gut check
-It is great to start grappling with concepts - videos are short.
+It is great to start grappling with concepts - videos are short<br>
 https://www.coursera.org/lecture/microbiome/welcome-to-the-course-AuMZk
 
 ## Coding:
 
 #### 🖥️ Getting started with R
-1.https://www.codecademy.com/learn/learn-r
-2. Once you are done with this you can go down this list:  https://www.codecademy.com/search?query=R
-Emphasis on dplyr and ggplot2
-
+1.	https://www.codecademy.com/learn/learn-r
+2.	https://www.codecademy.com/search?query=R
+   
 #### 💻 Getting started with BASH
-Before you do biostar handbook do this quick shell one https://swcarpentry.github.io/shell-novice/
+Before you do biostars handbook do this quick shell one
+https://swcarpentry.github.io/shell-novice/
 
 #### 🧑‍💻 The best way to get started with bioinformatics
-For getting used to best practices in coding in the command line
+For getting used to best practices in coding in the command line<br>
 https://www.biostarhandbook.com/index.html
 
 #### ✅ Scientific rigor, reproducibility, version control, and code-alongs
 Riffomonas has great tutorials to get started with R and reproducible research with version control is also a must.
 https://riffomonas.org/
 
-#### 16s analysis
-16S analysis in R
-https://benjjneb.github.io/dada2/tutorial.html
+#### 🧬 16s analysis
+**16S analysis in R**<br>
+https://benjjneb.github.io/dada2/tutorial.html<br>
 
-16S analysis in Qiime2
+**16S analysis in Qiime2**<br>
 https://docs.qiime2.org/2021.11/tutorials/overview/
