@@ -47,32 +47,30 @@ Packages:
 [Link to an overview of bioinformatics](https://psu.mediaspace.kaltura.com/media/Overview+of+Bioinformatics+and+Diversity+Metrics/1_1ih13k9f)
 
 # **Suggested Resources**
-General Microbiome background:
 
-### Coursera - gut check.
-It is great to start grappling with concepts - videos are short, and you can learn while you fold laundry...
+## Background: Coursera - gut check
+It is great to start grappling with concepts - videos are short.
 https://www.coursera.org/lecture/microbiome/welcome-to-the-course-AuMZk
 
-### Coding:
+## Coding:
 
-#### Getting started with R
+#### 🖥️ Getting started with R
 1.https://www.codecademy.com/learn/learn-r
 2. Once you are done with this you can go down this list:  https://www.codecademy.com/search?query=R
 Emphasis on dplyr and ggplot2
 
-#### Getting started with BASH
+#### 💻 Getting started with BASH
 Before you do biostar handbook do this quick shell one https://swcarpentry.github.io/shell-novice/
 
-#### The best way to get started with bioinformatics
+#### 🧑‍💻 The best way to get started with bioinformatics
 For getting used to best practices in coding in the command line
 https://www.biostarhandbook.com/index.html
 
-#### Scientific rigor, reproducibility, version control, and code-alongs
+#### ✅ Scientific rigor, reproducibility, version control, and code-alongs
 Riffomonas has great tutorials to get started with R and reproducible research with version control is also a must.
 https://riffomonas.org/
 
 #### 16s analysis
-
 16S analysis in R
 https://benjjneb.github.io/dada2/tutorial.html
 
